@@ -1,0 +1,4 @@
+jupyterlab
+boto3
+loguru
+pycryptodome
